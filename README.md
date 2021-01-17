@@ -45,7 +45,7 @@
 
 <img align="left" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&show_icons=true&hide_border=true&count_private=true&theme=yeblu" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [uni]: https://www.sab.ac.lk/
