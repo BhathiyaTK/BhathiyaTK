@@ -5,8 +5,6 @@
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%231877F2&down_message=connect&label=facebook&logo=facebook&logoColor=%23fff&style=for-the-badge&up_message=be%20a%20friend&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk%2F)][facebook]
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%23E4405F&down_message=follow&label=instagram&logo=instagram&logoColor=%23fff&style=for-the-badge&up_message=follow&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam%2F)][instagram]
 
----
-
 ### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
 - 🎓 I'm a final-year undergraduate in [Sabaragamuwa University of Sri Lanka][uni] 😋
@@ -15,8 +13,6 @@
 - 👯 I’m looking to collaborate with people who willing to do something amazing and cool 😃
 - 🎯 2021 Goals: Do something my own and complete my final year university research 😊
 - 😜 Fun fact: I love to draw 🎨, travel 🏕, listen music 🎵, watch movies 🎬 and play video games 🎮
-
-<br />
 
 ### Technologies and Tools:
 
@@ -43,7 +39,7 @@
 
 <img align="left" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&show_icons=true&hide_border=true&count_private=true&theme=yeblu" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [uni]: https://www.sab.ac.lk/
