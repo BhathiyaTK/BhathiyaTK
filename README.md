@@ -5,8 +5,6 @@
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%231877F2&down_message=connect&label=facebook&logo=facebook&logoColor=%23fff&style=for-the-badge&up_message=be%20a%20friend&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk%2F)][facebook]
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%23E4405F&down_message=follow&label=instagram&logo=instagram&logoColor=%23fff&style=for-the-badge&up_message=follow&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam%2F)][instagram]
 
-<br />
-
 ---
 
 ### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
@@ -43,12 +41,9 @@
 
 ---
 
-<img align="left" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&show_icons=true&hide_border=true&count_private=true&theme=yeblu" />
-
-<br />
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&show_icons=true&hide_border=true&count_private=true&theme=yeblu" />
 
 
 [uni]: https://www.sab.ac.lk/
