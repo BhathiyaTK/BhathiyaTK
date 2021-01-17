@@ -1,9 +1,9 @@
 ## Hi there, I'm Bhathiya Kariyawasam 👋 
 
-[![Website](https://img.shields.io/website?down_message=down&label=See%20more%20about%20me&style=for-the-badge&up_message=online&url=http%3A%2F%2Fbhathiya.tk)][website]
-[![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk&color=orange&logo=linkedin)][linkedin]
-[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk&color=blue&logo=facebook)][facebook]
-[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam&color=yellow&logo=instagram)][instagram]
+[![Website](https://img.shields.io/website?down_message=down&label=web&style=for-the-badge&up_message=online&url=http%3A%2F%2Fbhathiya.tk)][website]
+[![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk&color=orange&logo=linkedin&up_message=connect)][linkedin]
+[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk&color=blue&logo=facebook&up_message=be a friend)][facebook]
+[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam&color=yellow&logo=instagram&up_message=follow)][instagram]
 
 ### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
