@@ -40,6 +40,7 @@
 <img align="left" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&show_icons=true&hide_border=true&count_private=true&theme=yeblu&include_all_commits=true" />
 
 <br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&langs_count=8&layout=compact&hide=scss,less)](https://github.com/anuraghazra/github-readme-stats)
 
