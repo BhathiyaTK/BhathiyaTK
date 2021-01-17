@@ -1,9 +1,9 @@
 ## Hi there, I'm Bhathiya Kariyawasam 👋 
 
-[![Website](https://img.shields.io/website?label=See+more+about+me&style=flat&url=https%3A%2F%2Fbhathiya.tk)][website]
-[![Website](https://img.shields.io/website?label=Linkedin&style=flat&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk)][linkedin]
-[![Website](https://img.shields.io/website?label=Facebook&style=flat&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk)][facebook]
-[![Website](https://img.shields.io/website?label=Instagram&style=flat&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam)][instagram]
+[![Website](https://img.shields.io/website?label=See+more+about+me&style=for-the-badge&url=https%3A%2F%2Fbhathiya.tk)][website]
+[![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk)][linkedin]
+[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk)][facebook]
+[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam)][instagram]
 
 ### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
