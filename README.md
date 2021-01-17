@@ -47,6 +47,8 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
   
