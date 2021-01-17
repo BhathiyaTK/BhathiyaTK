@@ -5,6 +5,10 @@
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%231877F2&down_message=connect&label=facebook&logo=facebook&logoColor=%23fff&style=for-the-badge&up_message=be%20a%20friend&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk%2F)][facebook]
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%23E4405F&down_message=follow&label=instagram&logo=instagram&logoColor=%23fff&style=for-the-badge&up_message=follow&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam%2F)][instagram]
 
+<br />
+
+---
+
 ### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
 - 🎓 I'm a final-year undergraduate in [Sabaragamuwa University of Sri Lanka][uni] 😋
@@ -12,13 +16,7 @@
 - 📚 I’m currently learning all the technical areas related to Python & Javascript 🙃
 - 👯 I’m looking to collaborate with people who willing to do something amazing and cool 😃
 - 🎯 2021 Goals: Do something my own and complete my final year university research 😊
-- 😜 Fun fact: I love to draw 🎨, travel 🏕, listen music 🎵, watch movies 🎬 and play video games 🎮.
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style="color: #19c8d1;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" style="color: #19c8d1;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="color: #19c8d1;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 😜 Fun fact: I love to draw 🎨, travel 🏕, listen music 🎵, watch movies 🎬 and play video games 🎮
 
 <br />
 
@@ -45,7 +43,7 @@
 
 ---
 
-<img align="left" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
+<img align="left" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&show_icons=true&hide_border=true&count_private=true&theme=yeblu" />
 
 <br />
 
