@@ -1,8 +1,8 @@
 ## Hi there, I'm Bhathiya Kariyawasam 👋 
 
-[![Website](https://img.shields.io/website?label=see+more+about+me&style=for-the-badge&url=https%3A%2F%2Fbhathiya.tk)](https://bhathiya.tk)
+[![Website](https://img.shields.io/website?label=see+more+about+me&style=flat&url=https%3A%2F%2Fbhathiya.tk)](https://bhathiya.tk)
 
-### I'm a Student, Developer, Open-Source Contributor and Tech Enthusiast from Sri Lanka !!
+### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
 - 🎓 I'm a final-year undergraduate at Sabaragamuwa University of Sri Lanka [SUSL][uni] 😋
 - 💻 As a developer, I'm a true Python and Javascript lover 😍
