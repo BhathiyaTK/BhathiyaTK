@@ -8,10 +8,10 @@
 ### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
 - 🎓 I'm a final-year undergraduate in [Sabaragamuwa University of Sri Lanka][uni] 😋
-- 💻 As a developer, I'm a true Python and Javascript lover 😍
-- 📚 I’m currently learning all the technical areas related to Python & Javascript 🙃
+- 💻 As a developer, I'm passionate about Python and Javascript. 😍
+- 📚 I’m currently learning all the technical stuff related to Python & Javascript 🙃
 - 👯 I’m looking to collaborate with people who willing to do something amazing and cool 😃
-- 🎯 2021 Goals: Do something my own and complete my final year university research 😊
+- 🎯 2021 Goals: Do something new myself and complete my final year university research 😊
 - 😜 Fun fact: I love to draw 🎨, travel 🏕, listen music 🎵, watch movies 🎬 and play video games 🎮
 
 ### Technologies and Tools:
@@ -37,9 +37,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&langs_count=8&hide=scss,less,hack)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="left" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&langs_count=8&hide=scss,less,hack)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [uni]: https://www.sab.ac.lk/
