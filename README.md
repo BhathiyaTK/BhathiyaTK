@@ -1,9 +1,9 @@
 ## Hi there, I'm Bhathiya Kariyawasam 👋 
 
-[![Website](https://img.shields.io/website?label=See+more+about+me&style=for-the-badge&url=https%3A%2F%2Fbhathiya.tk&color=brightgreen)][website]
-[![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk&color=orange)][linkedin]
+[![Website](https://img.shields.io/website?label=See+more+about+me&style=for-the-badge&url=https%3A%2F%2Fbhathiya.tk&color=brightgreen&logo=google-chrome)][website]
+[![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk&color=orange&logo=linkedin)][linkedin]
 [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk&color=blue&logo=facebook)][facebook]
-[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam&color=yellow)][instagram]
+[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam&color=yellow&logo=instagram)][instagram]
 
 ### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
