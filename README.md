@@ -1,6 +1,6 @@
 ## Hi there, I'm Bhathiya Kariyawasam 👋 
 
-[![Website](https://img.shields.io/website?label=visit&style=for-the-badge&url=https%3A%2F%2Fbhathiya.tk)](https://bhathiya.tk)
+[![Website](https://img.shields.io/website?label=see+more+about+me&style=for-the-badge&url=https%3A%2F%2Fbhathiya.tk)](https://bhathiya.tk)
 
 ### I'm a Student, Developer, Open-Source Contributor and Tech Enthusiast from Sri Lanka !!
 
@@ -13,7 +13,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bhathiya.tk" width="22px" style="color: #19c8d1;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style="color: #19c8d1;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" style="color: #19c8d1;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" style="color: #19c8d1;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
