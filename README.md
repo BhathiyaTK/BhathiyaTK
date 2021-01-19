@@ -7,18 +7,21 @@
 
 ### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
-- 🎓 I'm a final-year undergraduate in [Sabaragamuwa University of Sri Lanka][uni] 😋
-- 💻 As a developer, I'm passionate about Python and Javascript. 😍
-- 📚 I’m currently learning all the technical stuff related to Python & Javascript 🙃
-- 👯 I’m looking to collaborate with people who willing to do something amazing and cool 😃
-- 🎯 2021 Goals: Do something new myself and complete my final year university research 😊
-- 😜 Fun fact: I love to draw 🎨, travel 🏕, listen music 🎵, watch movies 🎬 and play video games 🎮
+- 🎓 I'm a final-year undergraduate at [Sabaragamuwa University of Sri Lanka][uni]
+- 💻 As a developer, I'm passionate about Python and Javascript.
+- 📚 I’m currently learning all the technical stuff related to Python & Javascript.
+- 👯 I’m looking to collaborate with people who willing to do something amazing and cool.
+- 🎯 2021 Goals: Do something new myself and complete my final year university research.
+- 😜 Fun fact: I love to draw, travel, listen music, watch movies and play video games.
 
 ### Technologies and Tools:
+
+[![Python](https://img.shields.io/badge/-Python-#696969?style=flat-square&logo=python)](https://github.com/BhathiyaTK)
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/trpescript/trpescript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
