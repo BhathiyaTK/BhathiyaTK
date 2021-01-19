@@ -16,25 +16,22 @@
 
 ### Technologies and Tools:
 
-[![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python)](https://github.com/BhathiyaTK)
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/trpescript/typescript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/django/django.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/BhathiyaTK)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/BhathiyaTK)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/BhathiyaTK)
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)](https://github.com/BhathiyaTK)
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://github.com/BhathiyaTK)
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://github.com/BhathiyaTK)
+[![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)](https://github.com/BhathiyaTK)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/BhathiyaTK)
+[![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)](https://github.com/BhathiyaTK)
+[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)](https://github.com/BhathiyaTK)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/BhathiyaTK)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/BhathiyaTK)
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/BhathiyaTK)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/BhathiyaTK)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual+Studio+Code-black?style=flat-square&logo=visual+studio+code)](https://github.com/BhathiyaTK)
+[![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)](https://github.com/BhathiyaTK)
 
 <br />
 
