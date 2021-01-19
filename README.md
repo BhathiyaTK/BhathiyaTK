@@ -31,7 +31,7 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/BhathiyaTK)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/BhathiyaTK)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual+studio+code)](https://github.com/BhathiyaTK)
-[![GNU Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)](https://github.com/BhathiyaTK)
+[![GNU Bash](https://img.shields.io/badge/-GNU-Bash-black?style=flat-square&logo=gnu+bash)](https://github.com/BhathiyaTK)
 
 ---
 
