@@ -23,10 +23,10 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://github.com/BhathiyaTK)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://github.com/BhathiyaTK)
 
+[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)](https://github.com/BhathiyaTK)
+[![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)](https://github.com/BhathiyaTK)
 [![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)](https://github.com/BhathiyaTK)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/BhathiyaTK)
-[![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)](https://github.com/BhathiyaTK)
-[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)](https://github.com/BhathiyaTK)
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/BhathiyaTK)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/BhathiyaTK)
