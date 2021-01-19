@@ -16,7 +16,7 @@
 
 ### Technologies and Tools:
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/BhathiyaTK)
+[![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python)](https://github.com/BhathiyaTK)
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />
