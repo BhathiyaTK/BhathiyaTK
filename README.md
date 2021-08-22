@@ -37,7 +37,7 @@
 
 <img align="left" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&langs_count=8&hide=scss,less,hack)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&theme=dracula&langs_count=8&hide=scss,less,hack)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [uni]: https://www.sab.ac.lk/
