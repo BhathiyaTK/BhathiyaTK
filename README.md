@@ -24,14 +24,17 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://github.com/BhathiyaTK)
 [![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)](https://github.com/BhathiyaTK)
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)](https://github.com/BhathiyaTK)
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://github.com/BhathiyaTK)
 [![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)](https://github.com/BhathiyaTK)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/BhathiyaTK)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/BhathiyaTK)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/BhathiyaTK)
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/BhathiyaTK)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/BhathiyaTK)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual+studio+code)](https://github.com/BhathiyaTK)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/BhathiyaTK)
 [![GNU Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu+bash)](https://github.com/BhathiyaTK)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)](https://github.com/BhathiyaTK)
+[![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)](https://github.com/BhathiyaTK)
 
 ### GitHub Analytics
 
