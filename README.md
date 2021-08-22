@@ -45,7 +45,7 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 #### Google Cloud Training
 
 
-Badge | Title | Earned on | Link
+Badge | Title | Earned | Link
 ------------ | ------------- | ------------ | ------------
 ![BigQuery for Machine Learning Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png?raw=true&s=60) | BigQuery for Machine Learning | December 8, 2019 | [See credentials ↗](https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/185460)
 ![Data Engineering Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png?raw=true&s=60) | Data Engineering | August 25, 2019 | [See credentials ↗](https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/114272)
