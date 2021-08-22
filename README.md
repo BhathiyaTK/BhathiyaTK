@@ -47,8 +47,8 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 
 Badge | Title | Earned | Link
 ------------ | ------------- | ------------ | ------------
-![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=100) | AWS Fundamentals: Building Serverless Applications | April 28, 2020 | [See certificate ↗](https://coursera.org/share/5fe8a0b8ef9f27176994cbe80d31b48c)
-![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=30) | AWS Fundamentals: Going Cloud-Native | April 26, 2020 | [See certificate ↗](https://coursera.org/share/949f20994bbd7fee6a714a8a535c2906)
+![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | AWS Fundamentals: Building Serverless Applications | April 28, 2020 | [See certificate ↗](https://coursera.org/share/5fe8a0b8ef9f27176994cbe80d31b48c)
+![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=50) | AWS Fundamentals: Going Cloud-Native | April 26, 2020 | [See certificate ↗](https://coursera.org/share/949f20994bbd7fee6a714a8a535c2906)
 
 #### — Google Cloud Training —
 
