@@ -1,6 +1,6 @@
 ## Hi there, I'm Bhathiya Kariyawasam 👋 
 
-### About Me
+## About Me
 
 In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
 - 🎓 I'm a final-year undergraduate at [Sabaragamuwa University of Sri Lanka][uni]
@@ -12,7 +12,7 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ahfc51mnx85k4i90exezumgac&count=1)
 
-### Technologies and Tools
+## Technologies and Tools
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/BhathiyaTK)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/BhathiyaTK)
@@ -34,13 +34,13 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 [![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe-photoshop)](https://github.com/BhathiyaTK)
 [![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat&logo=adobe-illustrator)](https://github.com/BhathiyaTK)
 
-### GitHub Analytics
+## GitHub Analytics
 
 <img align="left" width="55%" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&custom_title=Contribution+Stats&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula&disable_animations=true" />
 
 <img alt="BhathiyaTK's Top using Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=scss,less,hack" />
 
-### Achievements
+## Achievements
 
 #### Google Cloud Training
 
@@ -57,7 +57,12 @@ Badge | Title | Earned | Link
 
 #### AWS Training
 
-### Connect with Me
+Badge | Title | Earned | Link
+------------ | ------------- | ------------ | ------------
+![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=60) | AWS Fundamentals: Building Serverless Applications | April 28, 2020 | [See certificate ↗](https://coursera.org/share/5fe8a0b8ef9f27176994cbe80d31b48c)
+![AWS Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/aws.png?raw=true&s=60) | AWS Fundamentals: Going Cloud-Native | April 26, 2020 | [See certificate ↗](https://coursera.org/share/949f20994bbd7fee6a714a8a535c2906)
+
+## Connect with Me
 
 [![Website](https://img.shields.io/website?down_message=offline&label=website&logo=google+chrome&logoColor=%23fff&style=for-the-badge&up_message=visit&url=https%3A%2F%2Fbhathiyatk.github.io)][website]
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?down_color=%230077B5&down_message=connect&label=linkedin&logo=linkedin&logoColor=%23fff&style=for-the-badge&up_message=connect&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk%2F)][linkedin]
