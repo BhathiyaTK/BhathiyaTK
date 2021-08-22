@@ -44,17 +44,16 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 
 #### Google Cloud Training
 
-<p align="center" width="10%"><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/185460"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="10%" />BigQuery for Machine Learning</a></p>
 
-<p align="center" width="10%"><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/114272"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png" alt="2" width="10%" />Data Engineering</a></p>
+Badge | Title | Earned on | Link
+------------ | ------------- | ------------ | ------------
+![BigQuery for Machine Learning Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png?raw=true) | BigQuery for Machine Learning | December 8, 2019 | [See credentials ↗](https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/185460)
+![Data Engineering Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png?raw=true) | Data Engineering | August 25, 2019 | [See credentials ↗](https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/114272)
+![Machine Learning APIs Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/3.png?raw=true) | Machine Learning APIs | June 15, 2019 | [See credentials ↗](https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/79788)
+![Baseline: Data, ML, AI Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/4.png?raw=true) | Baseline: Data, ML, AI | April 16, 2019 | [See credentials ↗](https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/66153)
+![Kubernetes in Google Cloud Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/5.png?raw=true) | Kubernetes in Google Cloud | April 16, 2019 | [See credentials ↗](https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/66042)
+![Google Cloud Essentials Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/6.png?raw=true) | Google Cloud Essentials | April 16, 2019 | [See credentials ↗](https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/60447)
 
-<p align="center" width="10%"><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/79788"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/3.png" alt="3" width="10%" />Machine Learning APIs</a></p>
-
-<p align="center" width="10%"><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/66153"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/4.png" alt="4" width="10%" />Baseline: Data, ML, AI</a></p>
-
-<p align="center" width="10%"><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/66042"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/5.png" alt="5" width="10%" />Kubernetes in Google Cloud</a></p>
-
-<p align="center" width="10%"><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/60447"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/6.png" alt="6" width="10%" />Google Cloud Essentials</a></p>
 
 #### AWS Training
 
