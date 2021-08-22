@@ -45,34 +45,34 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 #### Google Cloud Training
 
 <div width="10%" align="center">
-    <img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="10%">
-    <p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">BigQuery for Machine Learning</p>
-    <small style="color: gray;">Earned: Dec 8, 2019</small>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="10%">
+<p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">BigQuery for Machine Learning</p>
+<small style="color: gray;">Earned: Dec 8, 2019</small>
 </div>
 <div width="10%" align="center">
-    <img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png" alt="2" width="10%">
-    <p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Data Engineering</p>
-    <small style="color: gray;">Earned: Aug 25, 2019</small>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png" alt="2" width="10%">
+<p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Data Engineering</p>
+<small style="color: gray;">Earned: Aug 25, 2019</small>
 </div>
 <div width="10%" align="center">
-    <img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/3.png" alt="3" width="10%">
-    <p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Machine Learning APIs</p>
-    <small style="color: gray;">Earned: Jun 15 2019</small>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/3.png" alt="3" width="10%">
+<p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Machine Learning APIs</p>
+<small style="color: gray;">Earned: Jun 15 2019</small>
 </div>
 <div width="10%" align="center">
-    <img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/4.png" alt="4" width="10%">
-    <p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Baseline: Data, ML, AI</p>
-    <small style="color: gray;">Earned: Apr 16, 2019</small>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/4.png" alt="4" width="10%">
+<p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Baseline: Data, ML, AI</p>
+<small style="color: gray;">Earned: Apr 16, 2019</small>
 </div>
 <div width="10%" align="center">
-    <img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/5.png" alt="5" width="10%">
-    <p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Kubernetes in Google Cloud</p>
-    <small style="color: gray;">Earned: Apr 16, 2019</small>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/5.png" alt="5" width="10%">
+<p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Kubernetes in Google Cloud</p>
+<small style="color: gray;">Earned: Apr 16, 2019</small>
 </div>
 <div width="10%" align="center">
-    <img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/6.png" alt="6" width="10%">
-    <p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Google Cloud Essentials</p>
-    <small style="color: gray;">Earned: Mar 28, 2019</small>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/6.png" alt="6" width="10%">
+<p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Google Cloud Essentials</p>
+<small style="color: gray;">Earned: Mar 28, 2019</small>
 </div>
 
 #### AWS Training
