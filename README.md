@@ -38,23 +38,23 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 
 <img align="left" width="55%" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&custom_title=Contribution+Stats&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula&disable_animations=true" />
 
-<img alt="BhathiyaTK's Top using Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=scss,less,hack">
+<img alt="BhathiyaTK's Top using Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=scss,less,hack" />
 
 ### Achievements
 
 #### Google Cloud Training
 
-<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="10%"><p>BigQuery for Machine Learning</p>
+<p><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="10%" /><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/185460">BigQuery for Machine Learning</a></p>
 
-<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png" alt="2" width="10%"><p>Data Engineering</p>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png" alt="2" width="10%" /><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/114272">Data Engineering</a>
 
-<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/3.png" alt="3" width="10%"><p>Machine Learning APIs</p>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/3.png" alt="3" width="10%" /><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/79788">Machine Learning APIs</a>
 
-<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/4.png" alt="4" width="10%"><p>Baseline: Data, ML, AI</p>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/4.png" alt="4" width="10%" /><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/66153">Baseline: Data, ML, AI</a>
 
-<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/5.png" alt="5" width="10%"><p>Kubernetes in Google Cloud</p>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/5.png" alt="5" width="10%" /><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/66042">Kubernetes in Google Cloud</a>
 
-<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/6.png" alt="6" width="10%"><p>Google Cloud Essentials</p>
+<img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/6.png" alt="6" width="10%" /><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/60447">Google Cloud Essentials</a>
 
 #### AWS Training
 
