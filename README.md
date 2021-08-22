@@ -44,9 +44,9 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 
 #### Google Cloud Training
 
-<div width="10%" align="center"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="10%"><p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">BigQuery for Machine Learning</p><small style="color: gray;">Earned: Dec 8, 2019</small></div>
+<div width="100%" align="center"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="10%"><p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">BigQuery for Machine Learning</p><small style="color: gray;">Earned: Dec 8, 2019</small></div>
 
-<div width="10%" align="center"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png" alt="2" width="10%"><p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Data Engineering</p><small style="color: gray;">Earned: Aug 25, 2019</small></div>
+<div width="100%" align="center"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png" alt="2" width="10%"><p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Data Engineering</p><small style="color: gray;">Earned: Aug 25, 2019</small></div>
 
 <div width="10%" align="center"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/3.png" alt="3" width="10%"><p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">Machine Learning APIs</p><small style="color: gray;">Earned: Jun 15 2019</small></div>
 
