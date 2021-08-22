@@ -31,10 +31,10 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/BhathiyaTK)
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/BhathiyaTK)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/BhathiyaTK)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/BhathiyaTK)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/BhathiyaTK)
 [![GNU Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu+bash)](https://github.com/BhathiyaTK)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)](https://github.com/BhathiyaTK)
-[![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)](https://github.com/BhathiyaTK)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe-photoshop)](https://github.com/BhathiyaTK)
+[![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat&logo=adobe-illustrator)](https://github.com/BhathiyaTK)
 
 ### GitHub Analytics
 
