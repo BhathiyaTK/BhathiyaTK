@@ -44,7 +44,7 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 
 #### Google Cloud Training
 
-<p><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="10%" /><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/185460">BigQuery for Machine Learning</a></p>
+<p align="center" width="10%"><img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="10%" /><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/185460">BigQuery for Machine Learning</a></p>
 
 <img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/2.png" alt="2" width="10%" /><a href="https://run.qwiklabs.com/public_profiles/09eb9063-4829-484e-b597-906276b142f5/badges/114272">Data Engineering</a>
 
