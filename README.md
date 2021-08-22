@@ -25,7 +25,7 @@
 [![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=137D55)](https://github.com/BhathiyaTK)
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=DD1B16)](https://github.com/BhathiyaTK)
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://github.com/BhathiyaTK)
-[![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)](https://github.com/BhathiyaTK)
+[![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=0769AD)](https://github.com/BhathiyaTK)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/BhathiyaTK)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/BhathiyaTK)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/BhathiyaTK)
