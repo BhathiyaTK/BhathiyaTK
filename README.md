@@ -8,7 +8,7 @@ In briefly, I'm a Student, Software Developer, and Tech Enthusiast from Sri Lank
 - 📚 I’m currently learning all the technical stuff related to Django, Angular & React JS.
 - 👯 I’m looking to collaborate with people who willing to do something amazing and cool.
 - 🎯 2021 Goals: Do something new myself and complete my final year university research.
-- 😜 Fun fact: In my leisure times, I usually do drawing, listening music, watching movies or playing video games. Moreover, I love to travel; specially hiking and camping.
+- 😜 Fun fact: In my leisure times, I usually do drawing, listening music, watching movies or playing video games. If I'm in a vacation, I love to travel, hiking and camping.
 
 ### Technologies and Tools
 
