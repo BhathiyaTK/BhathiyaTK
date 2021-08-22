@@ -44,7 +44,7 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 
 #### Google Cloud Training
 
-<p width="100%" style="display: flex; gap: 3rem; flex-wrap: wrap;">
+<p width="100%" style="display: flex; gap: 1rem; flex-wrap: wrap;">
     <p width="10%" align="center">
         <img src="https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/1.png" alt="1" width="auto">
         <p style="margin-bottom: 0; font-weight: 300; color: #03bafc;">BigQuery for Machine Learning</p>
