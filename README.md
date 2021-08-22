@@ -1,7 +1,8 @@
 ## Hi there, I'm Bhathiya Kariyawasam 👋 
 
-### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
+### About Me
 
+In briefly, I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 - 🎓 I'm a final-year undergraduate at [Sabaragamuwa University of Sri Lanka][uni]
 - 💻 As a developer, I'm passionate about Python and Javascript.
 - 📚 I’m currently learning all the technical stuff related to Python & Javascript.
@@ -37,7 +38,7 @@
 
 <img alt="BhathiyaTK's Top using Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=scss,less,hack">
 
-### Contact Me
+### Connect with Me
 
 [![Website](https://img.shields.io/website?down_message=offline&label=web&logo=google+chrome&logoColor=%23fff&style=for-the-badge&up_message=visit&url=https%3A%2F%2Fbhathiyatk.github.io)][website]
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?down_color=%230077B5&down_message=connect&label=linkedin&logo=linkedin&logoColor=%23fff&style=for-the-badge&up_message=connect&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk%2F)][linkedin]
