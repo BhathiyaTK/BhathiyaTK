@@ -2,13 +2,15 @@
 
 ### About Me
 
-In briefly, I'm a Student, Software Developer, and Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
+In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
 - 🎓 I'm a final-year undergraduate at [Sabaragamuwa University of Sri Lanka][uni]
 - 💻 As a developer, I'm passionate about Python and Javascript.
 - 📚 I’m currently learning all the technical stuff related to Django, Angular & React JS.
 - 👯 I’m looking to collaborate with people who willing to do something amazing and cool.
 - 🎯 2021 Goals: Do something new myself and complete my final year university research.
 - 😜 Fun fact: In my leisure times, I usually do drawing, listening music, watching movies or playing video games. If I'm in a vacation, I love to travel, hiking and camping.
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312y2d2r4ldsjnq3hkn2tq6hg6oa&count=1)
 
 ### Technologies and Tools
 
@@ -20,7 +22,7 @@ In briefly, I'm a Student, Software Developer, and Tech Enthusiast from Sri Lank
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/BhathiyaTK)
 [![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=137D55)](https://github.com/BhathiyaTK)
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=DD1B16)](https://github.com/BhathiyaTK)
-[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://github.com/BhathiyaTK)
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/BhathiyaTK)
 [![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=0769AD)](https://github.com/BhathiyaTK)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/BhathiyaTK)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/BhathiyaTK)
@@ -37,6 +39,12 @@ In briefly, I'm a Student, Software Developer, and Tech Enthusiast from Sri Lank
 <img align="left" width="55%" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&custom_title=Contribution+Stats&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula&disable_animations=true" />
 
 <img alt="BhathiyaTK's Top using Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=scss,less,hack">
+
+### Achievements
+
+#### Google Cloud Training
+
+#### AWS Training
 
 ### Connect with Me
 
