@@ -22,7 +22,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)](https://github.com/BhathiyaTK)
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://github.com/BhathiyaTK)
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css&logoColor=1572B6)](https://github.com/BhathiyaTK)
-[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=092E20)](https://github.com/BhathiyaTK)
+[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=116646)](https://github.com/BhathiyaTK)
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=DD1B16)](https://github.com/BhathiyaTK)
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://github.com/BhathiyaTK)
 [![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)](https://github.com/BhathiyaTK)
