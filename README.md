@@ -10,7 +10,7 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 - 🎯 2021 Goals: Do something new myself and complete my final year university research.
 - 😜 Fun fact: In my leisure times, I usually do drawing, listening music, watching movies or playing video games. If I'm in a vacation, I love to travel, hiking and camping.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312y2d2r4ldsjnq3hkn2tq6hg6oa&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ahfc51mnx85k4i90exezumgac&count={count})
 
 ### Technologies and Tools
 
