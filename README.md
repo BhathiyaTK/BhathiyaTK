@@ -42,6 +42,11 @@ In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri 
 
 ## Achievements
 
+#### — Postman Training —
+
+Badge | Title | Earned | Link
+------------ | ------------- | ------------ | ------------
+![Postman Student Expert Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/pse.png?raw=true&s=50) | Postman Student Expert | September 3, 2021 | [See Badge ↗](https://api.badgr.io/public/assertions/WIydLPMURzOle8EX8G6OXw?identity__email=bhathiyakariyawasam94%40gmail.com)
 
 #### — AWS Training —
 
