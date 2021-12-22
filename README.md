@@ -2,14 +2,14 @@
 
 ## About Me
 
-In briefly, I'm a Student, a Software Developer, and a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
+In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
 
-- 🏢 I'm a software engineer (front-end) @ [Aizenit Technologies][work], London, UK.
+- 🏢 I work as a software engineer (front-end) @ [Aizenit Technologies][work], London, UK.
 - 🎓 And also, I'm a final-year undergraduate @ [Sabaragamuwa University of Sri Lanka][uni]
-- 💻 As a developer, I'm passionate about Python and Javascript.
-- 📚 I’m currently learning all the technical stuff related to Django, Angular & React JS.
+- 💻 As a developer, I'm passionate about Javascript, Angular, and Python.
+- 📚 I’m currently learning all the technical stuff related to Front-end web developent.
 - 👯 I’m looking to collaborate with people who willing to do something amazing and cool.
-- 🎯 2021 Goals: Do something new myself and complete my final year university research.
+- 🎯 2021 Goals: complete my final year university research.
 - 😜 Fun fact: In my leisure times, I usually do drawing, listening music, watching movies or playing video games. If I'm in a vacation, I love to travel, hiking and camping.
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ahfc51mnx85k4i90exezumgac&count=1)
