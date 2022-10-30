@@ -20,6 +20,7 @@ Experienced:
 [![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-black?style=flat&logo=tailwindcss)](https://github.com/BhathiyaTK)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/BhathiyaTK)
 [![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)](https://github.com/BhathiyaTK)
+
 [![Capacitor](https://img.shields.io/badge/-Capacitor-black?style=flat-square&logo=capacitor)](https://github.com/BhathiyaTK)
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/BhathiyaTK)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/BhathiyaTK)
