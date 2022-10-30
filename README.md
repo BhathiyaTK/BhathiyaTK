@@ -2,14 +2,12 @@
 
 ## About Me
 
-In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
+In briefly, I'm a Software Engineer, and a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
 
 - 🏢 I work as a software engineer (front-end) @ [Aizenit][work], London, UK.
 - 🎓 And also, I'm graduated from [Sabaragamuwa University of Sri Lanka][uni]
-- 💻 As a developer, I'm passionate about Javascript, Angular, and Python.
-- 📚 I’m currently learning all the technical stuff related to Front-end web development.
-- 👯 I’m looking to collaborate with people who willing to do something amazing and cool.
-- 😜 Fun fact: In my leisure times, I usually do drawing, listening music, watching movies or playing video games. If I'm in a vacation, I love to travel, hiking and camping.
+- 💻 As a developer, I'm passionate about Javascript, Angular, and React.js (Familiar with Python as well).
+- 😜 Fun fact: I love comics
 
 ## Technologies and Tools
 
@@ -17,8 +15,6 @@ Experienced:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/BhathiyaTK)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/BhathiyaTK)
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://github.com/BhathiyaTK)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/BhathiyaTK)
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=DD1B16)](https://github.com/BhathiyaTK)
 [![React.js](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/BhathiyaTK)
 [![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-black?style=flat&logo=tailwindcss)](https://github.com/BhathiyaTK)
@@ -27,20 +23,15 @@ Experienced:
 [![Capacitor](https://img.shields.io/badge/-Capacitor-black?style=flat-square&logo=capacitor)](https://github.com/BhathiyaTK)
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/BhathiyaTK)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/BhathiyaTK)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/BhathiyaTK)
-[![WebStorm](https://img.shields.io/badge/-Webstorm-black?style=flat&logo=webstorm&logoColor=007ACC)](https://github.com/BhathiyaTK)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe-photoshop)](https://github.com/BhathiyaTK)
-[![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat&logo=adobe-illustrator)](https://github.com/BhathiyaTK)
+[![Amazon AWS](https://img.shields.io/badge/-Amazon-AWS-black?style=flat-square&logo=aws)](https://github.com/BhathiyaTK)
 
 Familiar with:
 
-[![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=0769AD)](https://github.com/BhathiyaTK)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/BhathiyaTK)
 [![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=137D55)](https://github.com/BhathiyaTK)
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)](https://github.com/BhathiyaTK)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/BhathiyaTK)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/BhathiyaTK)
-[![GNU Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu+bash)](https://github.com/BhathiyaTK)
 
 ## GitHub Analytics
 
