@@ -20,7 +20,7 @@ Experienced:
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://github.com/BhathiyaTK)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/BhathiyaTK)
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=DD1B16)](https://github.com/BhathiyaTK)
-[![React.js](https://img.shields.io/badge/-reactjs-black?style=flat-square&logo=react&logoColor=DD1B16)](https://github.com/BhathiyaTK)
+[![React.js](https://img.shields.io/badge/-reactjs-black?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/BhathiyaTK)
 [![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-black?style=flat&logo=tailwindcss)](https://github.com/BhathiyaTK)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/BhathiyaTK)
 [![Capacitor](https://img.shields.io/badge/-Capacitor-black?style=flat-square&logo=capacitor)](https://github.com/BhathiyaTK)
