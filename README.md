@@ -23,7 +23,7 @@ Experienced:
 [![Capacitor](https://img.shields.io/badge/-Capacitor-black?style=flat-square&logo=capacitor)](https://github.com/BhathiyaTK)
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/BhathiyaTK)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/BhathiyaTK)
-[![Amazon AWS](https://img.shields.io/badge/-Amazon-AWS-black?style=flat-square&logo=amazonaws)](https://github.com/BhathiyaTK)
+[![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)](https://github.com/BhathiyaTK)
 
 Familiar with:
 
