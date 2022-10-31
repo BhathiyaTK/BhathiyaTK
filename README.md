@@ -68,10 +68,10 @@ Familiar with:
 
 ## Connect with Me
 
-[![Website](https://img.shields.io/website?down_message=offline&label=website&logo=google+chrome&logoColor=%23fff&style=for-the-badge&up_message=visit&url=https%3A%2F%2Fbhathiyatk.github.io)][website]
-&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?down_color=%230077B5&down_message=connect&label=linkedin&logo=linkedin&logoColor=%23fff&style=for-the-badge&up_message=connect&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk%2F)][linkedin]
-&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%231877F2&down_message=connect&label=facebook&logo=facebook&logoColor=%23fff&style=for-the-badge&up_message=be%20a%20friend&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk%2F)][facebook]
-&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%23E4405F&down_message=follow&label=instagram&logo=instagram&logoColor=%23fff&style=for-the-badge&up_message=follow&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam%2F)][instagram]
+[![Website](https://img.shields.io/website?down_message=offline&logo=google+chrome&logoColor=%23fff&style=for-the-badge&up_message=visit&url=https%3A%2F%2Fbhathiyatk.github.io)][website]
+&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?down_color=%230077B5&down_message=connect&logo=linkedin&logoColor=%23fff&style=for-the-badge&up_message=connect&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhathiyatk%2F)][linkedin]
+&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%231877F2&down_message=connect&logo=facebook&logoColor=%23fff&style=for-the-badge&up_message=be%20a%20friend&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk%2F)][facebook]
+&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%23E4405F&down_message=follow&logo=instagram&logoColor=%23fff&style=for-the-badge&up_message=follow&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam%2F)][instagram]
 
 [work]: https://www.aizenit.com/
 [uni]: https://www.sab.ac.lk/
