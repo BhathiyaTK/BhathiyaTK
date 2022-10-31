@@ -34,12 +34,6 @@ Familiar with:
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/BhathiyaTK)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/BhathiyaTK)
 
-## GitHub Analytics
-
-<img align="left" width="55%" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&custom_title=Contribution+Stats&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula&disable_animations=true" />
-
-<img alt="BhathiyaTK's Top using Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=scss,less,hack" />
-
 ## Achievements
 
 #### — Postman Training —
