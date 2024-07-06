@@ -2,12 +2,10 @@
 
 ## About Me
 
-In briefly, I'm a Software Engineer, and a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
+In brief, I'm a Software Engineer and a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
 
-- 🏢 I work as a software engineer (front-end) @ [Aizenit][work], London, UK.
-- 🎓 And also, I'm graduated from [Sabaragamuwa University of Sri Lanka][uni]
-- 💻 As a developer, I'm passionate about Javascript, Angular, and React.js (Familiar with Python as well).
-- 😜 Fun fact: I love comics
+- 🏢 I work as a software engineer (full-stack) @ [HNB][work], Sri Lanka.
+- 🎓 And also, I graduated from [Sabaragamuwa University of Sri Lanka][uni]
 
 ## Technologies and Tools
 
@@ -66,7 +64,7 @@ Familiar with:
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%231877F2&down_message=connect&label=&logo=facebook&logoColor=%23fff&style=for-the-badge&up_message=be%20a%20friend&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk%2F)][facebook]
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%23E4405F&down_message=follow&label=&logo=instagram&logoColor=%23fff&style=for-the-badge&up_message=follow&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam%2F)][instagram]
 
-[work]: https://www.aizenit.com/
+[work]: https://www.hnb.net/
 [uni]: https://www.sab.ac.lk/
 [instagram]: https://www.instagram.com/bhathiya.kariyawasam/
 [linkedin]: https://www.linkedin.com/in/bhathiyatk/
