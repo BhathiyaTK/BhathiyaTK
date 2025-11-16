@@ -14,23 +14,26 @@ Experienced:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/BhathiyaTK)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/BhathiyaTK)
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=DD1B16)](https://github.com/BhathiyaTK)
-[![React.js](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/BhathiyaTK)
 [![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-black?style=flat&logo=tailwindcss)](https://github.com/BhathiyaTK)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/BhathiyaTK)
-[![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)](https://github.com/BhathiyaTK)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)](https://github.com/BhathiyaTK)
+[![Springboot](https://img.shields.io/badge/-Springboot-black?style=flat-square&logo=springboot)](https://github.com/BhathiyaTK)
 
-[![Capacitor](https://img.shields.io/badge/-Capacitor-black?style=flat-square&logo=capacitor)](https://github.com/BhathiyaTK)
+[![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)](https://github.com/BhathiyaTK)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/BhathiyaTK)
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/BhathiyaTK)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/BhathiyaTK)
 [![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)](https://github.com/BhathiyaTK)
 
 Familiar with:
 
+[![React.js](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/BhathiyaTK)
+[![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)](https://github.com/BhathiyaTK)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/BhathiyaTK)
 [![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=137D55)](https://github.com/BhathiyaTK)
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)](https://github.com/BhathiyaTK)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/BhathiyaTK)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/BhathiyaTK)
+[![Capacitor](https://img.shields.io/badge/-Capacitor-black?style=flat-square&logo=capacitor)](https://github.com/BhathiyaTK)
 
 ## Achievements
 
