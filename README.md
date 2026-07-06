@@ -2,9 +2,9 @@
 
 ## About Me
 
-In brief, I'm a Software Engineer and a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me in the below.😊
+In brief, I'm a Tech Enthusiast from Sri Lanka 🇱🇰. Find more about me below.😊
 
-- 🏢 I work as a software engineer (full-stack) @ [HNB][work], Sri Lanka.
+- 🏢 I work as a senior software engineer (full-stack) @ [HNB][work], Sri Lanka.
 - 🎓 And also, I graduated from [Sabaragamuwa University of Sri Lanka][uni]
 
 ## Technologies and Tools
